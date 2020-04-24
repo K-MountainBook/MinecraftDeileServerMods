@@ -9,7 +9,7 @@ mod本体は格納されていません。~ライセンス関連調べるの面�
     MinecraftDeileServerMods
     ├─conf--------------------------modsに含まれるmod用のconfigファイル
     ├─mods
-    | └─requirmods.txt--------------必要なmodとそのversionを記載したテキストファイル
+    | └─requiremods.txt-------------必要なmodとそのversionを記載したテキストファイル
     └─README.md---------------------このファイル
 
 
