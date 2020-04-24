@@ -1,5 +1,5 @@
 # マインクラフトでいるサーバMOD設定済みファイル
-Configured mods config file for deile's Minecraft Server users
+Configured mods config file for Deile's Minecraft Server users
 
 ## なんぞねこれ？ (what is this）
 マインクラフトでいるサーバ用に設定されたmodの設定ファイル群です。  
@@ -19,7 +19,7 @@ mod本体は格納されていません。~ライセンス関連調べるの面�
 1. 解凍して、中身をサーバの環境のforgeフォルダ内にに上書きコピーする
 1. Enjoy!!
 ![ENJOYPARROT](https://cultofthepartyparrot.com/parrots/tripletsparrot.gif)
-## マインクラフトでいるサーバについて(about deile's Minecraft Server)
+## マインクラフトでいるサーバについて(about Deile's Minecraft Server)
 友人限定の未公開のサーバです。  
 参加したい方は[Twitter](https://twitter.com/deile666)まで。  
 またこの公開内容に問題がある場合も、同様にTwitterへご連絡ください。  
