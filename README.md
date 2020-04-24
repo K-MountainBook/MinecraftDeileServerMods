@@ -3,7 +3,7 @@ Configured mods config file for deile's Minecraft Server users
 
 ## なんぞねこれ？ (what is this）
 マインクラフトでいるサーバ用に設定されたmodの設定ファイル群です。  
-mod本体は格納されていません。~権利関係面倒だから仕方ないね~
+mod本体は格納されていません。~ライセンス関連調べるの面倒だから仕方ないね~
 
 ## 何が入っているの？(what is it contains?)
     MinecraftDeileServerMods
