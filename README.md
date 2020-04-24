@@ -18,7 +18,7 @@ mod本体は格納されていません。
 1. Downlad ZIPを押下して、zipファイルをダウンロードする
 1. 解凍して、中身をサーバの環境のforgeフォルダ内にに上書きコピーする
 1. Enjoy!!
-
+![ENJOYPARROT](https://cultofthepartyparrot.com/parrots/tripletsparrot.gif)
 ## マインクラフトでいるサーバについて(about deile's Minecraft Server)
 友人限定の未公開のサーバです。  
 参加したい方は[Twitter](https://twitter.com/deile666)まで。  
