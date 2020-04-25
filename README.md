@@ -5,9 +5,8 @@ Configured mods config file for Deile's Minecraft Server users
 マインクラフトでいるサーバ用に設定されたmodの設定ファイル群です。  
 mod本体は格納されていません。~ライセンス関連調べるの面倒だから仕方ないね~
 
-## 対象サーバ(戻しました)
-~forge 1.14.4 - 28.2.0~  
-forge 1.14.4 - 28.1.0
+## 対象サーバ
+forge 1.14.4 - 28.1.118
 
 ## 何が入っているの？(what is it contains?)
     MinecraftDeileServerMods
