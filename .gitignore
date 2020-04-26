@@ -1,9 +1,11 @@
-defaultconfigs
-usernamecache.json
-logs
-resourcepacks
-saves
+/crash-reports
+/defaultconfigs
+/logs
+/resourcepacks
+/saves
+/screenshots
 options.txt
 realms_persistence.json
 servers.dat
 usercache.json
+usernamecache.json
