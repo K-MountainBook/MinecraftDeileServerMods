@@ -17,7 +17,7 @@ forge 1.14.4 - 28.2.0
 
 
 ## 使い方(manual)
-1. [リポジトリ](https://github.com/Keita1009/MinecraftDeileServerMods) のページへ行って、Clone or downloadボタンを押す
+1. [リポジトリ](https://github.com/K-MountainBook/MinecraftDeileServerMods) のページへ行って、Clone or downloadボタンを押す
 1. Downlad ZIPを押下して、zipファイルをダウンロードする
 1. 解凍して、中身をサーバの環境のforgeフォルダ内にに上書きコピーする
 1. Enjoy!!
