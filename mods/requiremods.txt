@@ -1,5 +1,5 @@
-[1.14.4][forge28.1.0]mod_CutAllSMP_v2.5.2.jar
-https://www.curseforge.com/minecraft/mc-mods/break-all-of-the-same-block-and-more/files/2784236
+[1.16.3][forge34.1.0]mod_CutAllSMP_v2.5.2.jar
+https://www.curseforge.com/minecraft/mc-mods/break-all-of-the-same-block-and-more/files/3068234
 
-[1.14.4][forge28.1.0]mod_MineAllSMP_v2.6.5.jar
-https://www.curseforge.com/minecraft/mc-mods/break-all-of-the-same-block-and-more/files/2784238
+[1.16.3][forge34.1.0]mod_MineAllSMP_v2.6.6.jar
+https://www.curseforge.com/minecraft/mc-mods/break-all-of-the-same-block-and-more/files/3068237
