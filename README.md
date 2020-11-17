@@ -19,7 +19,7 @@ forge 1.16.3 - 34.1.0
 
 
 ## 使い方(manual)
-1. [リポジトリ](https://github.com/K-MountainBook/MinecraftDeileServerMods) のページへ行って、Codeボタンを押す
+1. [リポジトリ（このページ）](https://github.com/K-MountainBook/MinecraftDeileServerMods) のページへ行って、Codeボタンを押す
 1. Downlad ZIPを押下して、zipファイルをダウンロードする
 1. 解凍して、中身をサーバの環境のforgeフォルダ内にに上書きコピーする
 1. Enjoy!!
