@@ -1,6 +1,3 @@
-update:2020/10/09 - forgeのバージョンを更新  
-update:2020/12/16 - TwitterのアカウントをNSFW垢へ変更
-
 # マインクラフトでいるサーバMOD設定済みファイル
 Configured mods config file for Deile's Minecraft Server users
 
@@ -29,3 +26,6 @@ forge 1.16.3 - 34.1.0
 友人限定の未公開のサーバです。  
 参加したい方は[Twitter](https://twitter.com/deilechang)まで。  
 またこの公開内容に問題がある場合も、同様にTwitterへご連絡ください。  
+
+update:2020/10/09 - forgeのバージョンを更新  
+update:2020/12/16 - TwitterのアカウントをNSFW垢へ変更
