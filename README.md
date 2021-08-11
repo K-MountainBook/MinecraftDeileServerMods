@@ -28,4 +28,4 @@ forge 1.16.3 - 34.1.0
 またこの公開内容に問題がある場合も、同様にTwitterへご連絡ください。  
 
 update:2020/10/09 - forgeのバージョンを更新  
-update:2020/12/16 - TwitterのアカウントをNSFW垢へ変更
+update:2020/12/16 - TwitterのアカウントをNonNSFW垢へ変更
