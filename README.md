@@ -1,3 +1,5 @@
+# log4j2の脆弱性に対する対策が取れてないので現在サーバ停止中です。(2021/12/11)
+
 # マインクラフトでいるサーバMOD設定済みファイル
 
 Configured mods config file for Deile's Minecraft Server users
@@ -35,3 +37,4 @@ forge 1.16.3 - 34.1.0
 
 update:2020/10/09 - forgeのバージョンを更新  
 update:2020/12/16 - TwitterのアカウントをNonNSFW垢へ変更
+update:2021/12/12 - log4j2の脆弱性に対する対策が取れてないので、サーバ現在停止中
